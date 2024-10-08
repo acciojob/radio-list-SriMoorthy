@@ -1,8 +1,5 @@
 /*  your css code here. If applicable */
-ul li{
-	list-style: none;
-}
 
-li:nth-child(even){
+.input{
 	color: red;
 }
